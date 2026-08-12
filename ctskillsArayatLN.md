@@ -1,4 +1,3 @@
-<img width="506" height="585" alt="Flow-Chart for subproblem 2" src="https://github.com/user-attachments/assets/f3d254ba-d009-444d-966d-5decc513c3e7" />
 
 Annex B
 Computational Thinking Exercise: "Smart Vending Machine"
