@@ -54,10 +54,35 @@ Using the same app the students used to input the amount they will pay with (if 
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 
+Sub-Problem 1:
+START
+Student inputs order
+Order gets sent to app
+App calculates Order price
+App asks Student if they will pay in person or digitally
+IF Student will pay in person:
+   Student inputs amount they will pay with
+   App calculates change needed
+   Return Change Needed
+END IF
+Return Order Price
+END
 
+Sub-Problem 2:
+SETUP
+Canteen Inputs their inventory
+START
+Retrieve Student Orders
+Find Items Student Ordered
+Subtract amount Student ordered with current inventory
+Return Cafeteria Inventory
+END
 
-
-
+Sub-Problem 3:
+START
+Retrieve Change needed for Student order
+Display Change needed for Student order number n
+END
 
 Rubrics For Grading
 Total Points: 20pts
