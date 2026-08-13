@@ -27,4 +27,3 @@ if birth_year >= 1900:
         print("Your Chinese Zodiac Sign is: Dog (狗 / Gǒu)")
     elif base % 12 == 11:
         print("Your Chinese Zodiac Sign is: Pig (猪 / Zhū)")  
-
