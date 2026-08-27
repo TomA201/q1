@@ -1,4 +1,4 @@
-
+        
 class Hero:
     def __init__(self, name, hp):
         self.name = name
@@ -10,8 +10,8 @@ class Hero:
 
 Hero1 = Hero("Arthur", 100)
 Hero2 = Hero("Morgana", 100)
-damagetakenbyaruthur = 10
-Hero1.take_damage(damagetakenbyaruthur)
+damagetakenbyhero1 = 10
+Hero1.take_damage(damagetakenbyhero1)
 print(Hero1.name,"'s hp is",Hero1.hp)
 print(Hero2.name,"'s hp is",Hero2.hp)
 
