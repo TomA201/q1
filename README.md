@@ -7,3 +7,5 @@
 ### FA7: https://github.com/TomA201/q1/blob/main/q1_sg7_Arayat_Aquino.py
 ### Car Sample Code: 
 https://github.com/TomA201/q1/blob/main/q1_mycar_arayat_Aquino.py
+### TusokTusok Sample Code:
+https://github.com/TomA201/q1/blob/main/q1_TusokTusok_SampleCode.py
